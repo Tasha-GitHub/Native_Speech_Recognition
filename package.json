@@ -1,0 +1,27 @@
+{
+  "name": "speech-recognition",
+  "version": "1.0.0",
+  "description": "using vanilla js, i capture sounds from the mic",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasha-GitHub/Native_Speech_Recognition.git"
+  },
+  "keywords": [
+    "speech"
+  ],
+  "author": "Tasha Casagni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasha-GitHub/Native_Speech_Recognition/issues"
+  },
+  "homepage": "https://github.com/Tasha-GitHub/Native_Speech_Recognition#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
